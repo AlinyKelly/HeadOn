@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="imagem_do_produto">Imagem do produto</string>
+    <string name="usuario">Usuário</string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+</resources>
